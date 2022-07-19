@@ -6,16 +6,10 @@ import requests
 import json
 from datetime import datetime
 import argparse
-from dotenv import load_dotenv
 from time import sleep
 
 # when rate-limited, add this to the wait time
 ADDITIONAL_SLEEP_TIME = 2
-
-env_file = os.path.join(os.path.dirname(__file__), ".env")
-if os.path.isfile(env_file):
-    load_dotenv(env_file)
-
 
 # write handling
 
