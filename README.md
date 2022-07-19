@@ -1,3 +1,11 @@
+# slack-exporter Misho's fork
+
+This repository is a temporary one, because of the obvious reason, for our colleagues and removed in a few months.
+
+Misho's @renamer.pl is also attached (GPLv3).
+
+-------------------------------------------
+
 # slack-exporter
 
 A Slack bot and standalone script for exporting messages and file attachments from public and private channels, using Slack's new Conversations API.
